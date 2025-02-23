@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M8Z2gWjgZV5vMUCMyIDI/icdZmtGAtMH/GOJhMtSYNPrHD/d/NIM0iBUbKgzjRmh2HB6wDaUq0bf9SpKCfVZUw==",
+  "success": true,
+  "projectFilePath": "S:\\Back\\BackLR3\\BackLR3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaspa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.2\\microsoft.extensions.dependencyinjection.9.0.2.nupkg.sha512",
+    "C:\\Users\\Kaspa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
