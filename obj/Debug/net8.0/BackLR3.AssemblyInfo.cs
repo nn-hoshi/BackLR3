@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackLR3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9d99b679ac320bd71ca06e3a1377618f536ec6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackLR3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackLR3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
